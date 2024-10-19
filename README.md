@@ -1,6 +1,7 @@
 # Snake Game em Pascal
 
-[https://github.com/user-attachments/assets/eeb54a8f-21df-478b-9a5d-ed1dd9b90499](https://github.com/user-attachments/assets/eeb54a8f-21df-478b-9a5d-ed1dd9b90499)
+![image](https://github.com/user-attachments/assets/391b6360-6dda-4c3f-aa4a-4f6ce6262690)
+
 
 Este é um simples jogo da cobra (Snake Game) desenvolvido em Pascal, criado como um projeto de treinamento para aprimorar as habilidades de programação na linguagem. O objetivo do jogo é controlar a cobra, comer a comida que aparece na tela e evitar colisões com as paredes ou com o próprio corpo da cobra.
 
