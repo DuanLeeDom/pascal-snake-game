@@ -46,4 +46,4 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou corre
 
 ## Licença
 
-Este projeto é de domínio público. Sinta-se à vontade para usar, modificar e compartilhar.
+**Licença**: Este projeto está licenciado sob a [Licença MIT](LICENSE). Consulte o arquivo [`LICENSE`](LICENSE) para mais detalhes.
